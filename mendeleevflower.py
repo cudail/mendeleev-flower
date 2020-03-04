@@ -34,20 +34,18 @@ with open ('elements.csv') as elementscsv:
 
         group = int(data[groupIdx] or -1)
         period = int(data[periodIdx] or -1)
+        y=period
         if (group>=1 and group<=2) or (group>=13):
             x=group > 2 and group-10 or group
-            y=period
             element = svg.Group(transform=f"translate({x*bw},{y*bh})")
             spblock.append(element)
         elif group > 0:
             x=group
-            y=period
             element = svg.Group(transform=f"translate({x*bw},{y*bh})")
             fblock.append(element)
         else:
             a=int(data[atomicNIdx])
             x=period==6 and a-57 or a-89
-            y=period
             element = svg.Group(transform=f"translate({x*bw},{y*bh})")
             dblock.append(element)
         element.append(svg.Rectangle(0,0,bw,bh,stroke_width=1,stroke='black', fill='yellow'))
