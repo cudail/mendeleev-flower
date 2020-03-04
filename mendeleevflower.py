@@ -7,15 +7,11 @@ import math
 
 d = svg.Drawing(math.sqrt(2)*1000,1000, origin='center')
 
+bw, bh = 60, 60
 
-sx, sy = -400, -400
-
-bw, bh = 30, 30
-
-
-spblock = svg.Group(transform=f"translate(-400,-400)")
-fblock = svg.Group(transform=f"translate(0,-400)")
-dblock = svg.Group(transform=f"translate(-400,0)")
+spblock = svg.Group(transform=f"translate(-650,-400)")
+fblock = svg.Group(transform=f"translate(-150,-400)")
+dblock = svg.Group(transform=f"translate(-600,-100)")
 
 d.append(spblock)
 d.append(fblock)
