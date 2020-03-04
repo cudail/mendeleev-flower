@@ -30,9 +30,11 @@ with open ('elements.csv') as elementscsv:
             symbolIdx = data.index("Symbol")
             atomicNIdx = data.index("Atomic Number")
             massIdx = data.index("Atomic Mass")
+            periodIdx = data.index("Period")
+            groupIdx = data.index("Group")
             continue
-        x=i
-        y=0
+        x=int(data[groupIdx] or 0)
+        y=int(data[periodIdx] or 0)
         element = svg.Group(transform=f"translate({x*bw},{y*bh})")
         element.append(svg.Rectangle(0,0,bw,bh,stroke_width=1,stroke='black', fill='yellow'))
         symbol = svg.Text(data[symbolIdx],10,bw/2,bh/2.5,font_family='sans-serif',text_anchor='middle',fill='black')
