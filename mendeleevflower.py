@@ -44,7 +44,7 @@ with open ('elements.csv') as elementscsv:
             x=period==6 and a-57 or a-89
             element = svg.Group(transform=f"translate({x*bw},{y*bh})")
             dblock.append(element)
-        element.append(svg.Rectangle(0,0,bw,bh,stroke_width=1,stroke='black', fill='yellow'))
+        element.append(svg.Lines(0,0,0,bh,bw,bh,bw,0,close=True,stroke_width=2, stroke='black', fill='yellow'))
         element.append(svg.Text(data[symbolIdx],10,bw/2,bh/2.5,font_family='sans-serif',text_anchor='middle',fill='black'))
         element.append(svg.Text(data[atomicNIdx],5,2,bh-5,font_family='sans-serif',fill='black'))
         element.append(svg.Text(data[massIdx],5,2,2,font_family='sans-serif',fill='black'))
