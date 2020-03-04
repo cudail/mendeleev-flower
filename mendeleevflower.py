@@ -3,8 +3,9 @@
 import drawSvg as svg
 import itertools
 import csv
+import math
 
-d = svg.Drawing(1000,1000, origin='center')
+d = svg.Drawing(math.sqrt(2)*1000,1000, origin='center')
 
 
 sx, sy = -400, -400
