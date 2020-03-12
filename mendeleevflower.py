@@ -38,7 +38,7 @@ with open ('elements.csv') as elementscsv:
         y=period
         if (group>=1 and group<=2) or (group>=13):
             x=group > 2 and group-10 or group
-            element = svg.Group(transform=f"translate({x*bw},{y*bh+i*o})")
+            element = svg.Group(transform=f"translate({x*bw},{y*bh+x*o})")
             spblock.append(element)
             element.append(svg.Lines(0,0, 0,bh, bw,bh-o, bw,-o, close=True,stroke_width=2, stroke='black', fill='yellow'))
         elif group > 0:
