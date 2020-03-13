@@ -11,7 +11,7 @@
 <text x="670" y="440" font-size="12" font-family="sans-serif" fill="black" text-anchor="end">Element data from: https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee</text>
 <text x="670" y="457" font-size="12" font-family="sans-serif" fill="black" text-anchor="end">Colours based on Paul Tol's colour palettes: https://personal.sron.nl/~pault/</text>
 <g transform="translate(-650,-400)">
-<rect x="120" y="367.5" width="420" height="120" stroke-width="2" stroke="black" fill="#dddddd" />
+<rect x="60" y="367.5" width="480" height="120" stroke-width="2" stroke="black" fill="#dddddd" />
 <g transform="translate(420,112.5)">
 <path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
 <text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">H</text>
@@ -24,7 +24,7 @@
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">2</text>
 <text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">4.002</text>
 </g>
-<g transform="translate(420,172.5)">
+<g transform="translate(60,127.5)">
 <path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
 <text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Li</text>
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">3</text>
@@ -72,7 +72,7 @@
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">10</text>
 <text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">20.18</text>
 </g>
-<g transform="translate(420,232.5)">
+<g transform="translate(60,187.5)">
 <path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
 <text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Na</text>
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">11</text>
@@ -120,7 +120,7 @@
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">18</text>
 <text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">39.948</text>
 </g>
-<g transform="translate(420,292.5)">
+<g transform="translate(60,247.5)">
 <path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
 <text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">K</text>
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">19</text>
@@ -168,7 +168,7 @@
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">36</text>
 <text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">83.798</text>
 </g>
-<g transform="translate(420,352.5)">
+<g transform="translate(60,307.5)">
 <path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
 <text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Rb</text>
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">37</text>
@@ -216,7 +216,7 @@
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">54</text>
 <text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">131.293</text>
 </g>
-<g transform="translate(420,412.5)">
+<g transform="translate(60,367.5)">
 <path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
 <text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Cs</text>
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">55</text>
@@ -264,7 +264,7 @@
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">86</text>
 <text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[222]</text>
 </g>
-<g transform="translate(420,472.5)">
+<g transform="translate(60,427.5)">
 <path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
 <text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Fr</text>
 <text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">87</text>
