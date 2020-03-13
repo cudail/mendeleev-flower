@@ -25,6 +25,7 @@ spblock = svg.Group(transform=f"translate(-650,-400)")
 fblock = svg.Group(transform=f"translate(-150,-400)")
 dblock = svg.Group(transform=f"translate(-600,-100)")
 
+
 d.append(spblock)
 d.append(fblock)
 d.append(dblock)
@@ -34,6 +35,14 @@ n=8 #number of elements in a p block row
 #slant offset to make the spiral work
 angle=math.asin(bh/math.sqrt(bh*bh+n*n*bw*bw))
 o=bw*math.tan(angle)
+
+# you might wonder about the maths here
+# I don't understand it either
+# it was entirely by trial and error
+spblock.append(svg.Rectangle(bw,-bh*8-o,bw*8,bh*2,stroke_width=2, stroke='black', fill=unknwn))
+fblock.append(svg.Rectangle(bw*3,-bh*8-o,bw*10,bh*2,stroke_width=2, stroke='black', fill=unknwn))
+dblock.append(svg.Rectangle(bw,-bh*8+2*o,bw*14,bh*2,stroke_width=2, stroke='black', fill=unknwn))
+
 
 with open ('elements.csv') as elementscsv:
     rows = csv.reader(elementscsv)
