@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 
 import drawSvg as svg
-import itertools
 import csv
 import math
 
