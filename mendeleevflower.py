@@ -58,17 +58,17 @@ o2=bw*math.tan(math.asin(bh/math.sqrt(bh*bh+4*4*bw*bw)))
 spblock.append(svg.Lines(bw*5,-bh-o, bw*5,-o, bw*8,-bh, bw*8,-2*bh, close=True,stroke_width=2, stroke='black', fill=nonmet))
 spblock.append(svg.Lines(bw*5,-bh-o,  bw*8,-bh, bw*8,-2*bh, close=True,stroke_width=2, stroke='black', fill=nobleg))
 
-trans_metal_head_top_x=bw*3
-trans_metal_head_top_y=-bh*3-o*3
-trans_metal_head_top_w=bw*9
-fblock.append(svg.Rectangle(trans_metal_head_top_x,trans_metal_head_top_y,trans_metal_head_top_w,hh,stroke_width=2, stroke='black', fill=transm))
-fblock.append(svg.Text("Transition Metals",10,trans_metal_head_top_x+bw*4.5,trans_metal_head_top_y+2,font_family='sans-serif',text_anchor='middle',fill='black'))
+# trans_metal_head_top_x=bw*3
+# trans_metal_head_top_y=-bh*3-o*3
+# trans_metal_head_top_w=bw*9
+# fblock.append(svg.Rectangle(trans_metal_head_top_x,trans_metal_head_top_y,trans_metal_head_top_w,hh,stroke_width=2, stroke='black', fill=transm))
+# fblock.append(svg.Text("Transition Metals",10,trans_metal_head_top_x+bw*4.5,trans_metal_head_top_y+2,font_family='sans-serif',text_anchor='middle',fill='black'))
 
-trans_metal_head_bot_x=trans_metal_head_top_x
-trans_metal_head_bot_y=trans_metal_head_top_y-4*bh-hh
-trans_metal_head_bot_w=bw*6
-fblock.append(svg.Rectangle(trans_metal_head_bot_x,trans_metal_head_bot_y,trans_metal_head_bot_w,hh,stroke_width=2, stroke='black', fill=transm))
-fblock.append(svg.Text("Transition Metals",10,trans_metal_head_bot_x+bw*3,trans_metal_head_bot_y+2,font_family='sans-serif',text_anchor='middle',fill='black'))
+# trans_metal_head_bot_x=trans_metal_head_top_x
+# trans_metal_head_bot_y=trans_metal_head_top_y-4*bh-hh
+# trans_metal_head_bot_w=bw*6
+# fblock.append(svg.Rectangle(trans_metal_head_bot_x,trans_metal_head_bot_y,trans_metal_head_bot_w,hh,stroke_width=2, stroke='black', fill=transm))
+# fblock.append(svg.Text("Transition Metals",10,trans_metal_head_bot_x+bw*3,trans_metal_head_bot_y+2,font_family='sans-serif',text_anchor='middle',fill='black'))
 
 
 with open ('elements.csv') as elementscsv:
