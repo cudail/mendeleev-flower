@@ -55,11 +55,6 @@ spblock.append(svg.Rectangle(bw,-bh*8-o,bw*8,bh*2,stroke_width=2, stroke='black'
 fblock.append(svg.Rectangle(bw*3,-bh*8-o,bw*10,bh*2,stroke_width=2, stroke='black', fill=unknwn))
 dblock.append(svg.Rectangle(bw,-bh*8+2*o,bw*14,bh*2,stroke_width=2, stroke='black', fill=unknwn))
 
-#offset for the wrap-around for H->He
-o2=bw*math.tan(math.asin(bh/math.sqrt(bh*bh+4*4*bw*bw)))
-spblock.append(svg.Lines(bw*5,-bh-o, bw*5,-o, bw*8,-bh, bw*8,-2*bh, close=True,stroke_width=2, stroke='black', fill=nonmet))
-spblock.append(svg.Lines(bw*5,-bh-o,  bw*8,-bh, bw*8,-2*bh, close=True,stroke_width=2, stroke='black', fill=nobleg))
-
 # trans_metal_head_top_x=bw*3
 # trans_metal_head_top_y=-bh*3-o*3
 # trans_metal_head_top_w=bw*9
@@ -114,7 +109,12 @@ with open ('elements.csv') as elementscsv:
                 colour = unknwn #unknown
             else:
                 colour = nonmet #nonmetals
-            x=group > 2 and group-10 or group
+            if group==1:
+                x=7
+            elif group>2:
+                x=group-10
+            else:
+                x=group
             element = svg.Group(transform=f"translate({x*bw},{y*bh+x*o})")
             spblock.append(element)
             element.append(svg.Lines(0,0, 0,bh, bw,bh-o, bw,-o, close=True,stroke_width=2, stroke='black', fill=colour))
