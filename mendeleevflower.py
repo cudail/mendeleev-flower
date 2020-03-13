@@ -88,7 +88,7 @@ with open ('elements.csv') as elementscsv:
             else:
                 colour = transm
             x=group
-            element = svg.Group(transform=f"translate({x*bw},{y*bh})")
+            element = svg.Group(transform=f"translate({x*bw},{y*bh+3*o})")
             fblock.append(element)
             element.append(svg.Lines(0,0,0,bh,bw,bh,bw,0,close=True,stroke_width=2, stroke='black', fill=colour))
             element.append(svg.Text(data[symbolIdx],24,bw/2,bh/2.7,font_family='sans-serif',text_anchor='middle', dominant_baseline='middle',fill='black'))
