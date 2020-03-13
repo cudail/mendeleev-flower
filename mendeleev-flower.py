@@ -48,25 +48,11 @@ angle=math.asin(bh/math.sqrt(bh*bh+n*n*bw*bw))
 #offset for sp-block slant
 o=bw*math.tan(angle)
 
-
 # you might wonder about the maths here
 # it was entirely by trial and error
 spblock.append(svg.Rectangle(bw,-bh*8-o,bw*8,bh*2,stroke_width=2, stroke='black', fill=unknwn))
 fblock.append(svg.Rectangle(bw*3,-bh*8-o,bw*10,bh*2,stroke_width=2, stroke='black', fill=unknwn))
 dblock.append(svg.Rectangle(bw,-bh*8+2*o,bw*14,bh*2,stroke_width=2, stroke='black', fill=unknwn))
-
-# trans_metal_head_top_x=bw*3
-# trans_metal_head_top_y=-bh*3-o*3
-# trans_metal_head_top_w=bw*9
-# fblock.append(svg.Rectangle(trans_metal_head_top_x,trans_metal_head_top_y,trans_metal_head_top_w,hh,stroke_width=2, stroke='black', fill=transm))
-# fblock.append(svg.Text("Transition Metals",10,trans_metal_head_top_x+bw*4.5,trans_metal_head_top_y+2,font_family='sans-serif',text_anchor='middle',fill='black'))
-
-# trans_metal_head_bot_x=trans_metal_head_top_x
-# trans_metal_head_bot_y=trans_metal_head_top_y-4*bh-hh
-# trans_metal_head_bot_w=bw*6
-# fblock.append(svg.Rectangle(trans_metal_head_bot_x,trans_metal_head_bot_y,trans_metal_head_bot_w,hh,stroke_width=2, stroke='black', fill=transm))
-# fblock.append(svg.Text("Transition Metals",10,trans_metal_head_bot_x+bw*3,trans_metal_head_bot_y+2,font_family='sans-serif',text_anchor='middle',fill='black'))
-
 
 with open ('elements.csv') as elementscsv:
     rows = csv.reader(elementscsv)
