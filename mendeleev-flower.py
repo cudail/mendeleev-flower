@@ -149,4 +149,4 @@ with open ('elements.csv') as elementscsv:
             element.append(svg.Text(data[atomicNIdx],12,bw/2,bh/2.7+23,text_anchor='middle',font_family='sans-serif',fill='black'))
             element.append(svg.Text(mass_str,8,4,4,font_family='sans-serif',fill='black'))
 
-d.saveSvg('out.svg')
+d.saveSvg('mendeleev-flower.svg')

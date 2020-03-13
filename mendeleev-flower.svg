@@ -1,0 +1,730 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1414.213562373095" height="1000" viewBox="-707.1067811865476 -500.0 1414.213562373095 1000">
+<defs>
+</defs>
+<text x="30" y="-350" font-size="30" font-family="sans-serif" fill="black">Print-out Spiral Mendeleev Flower</text>
+<text x="30" y="-320" font-size="20" font-family="sans-serif" fill="black">Caoimhe Ní Chaoimh</text>
+<text x="30" y="-300" font-size="12" font-family="sans-serif" fill="black">https://github.com/oakreef/mendeleev-flower</text>
+<text x="670" y="440" font-size="12" font-family="sans-serif" fill="black" text-anchor="end">Inspiration: https://chilliant.blogspot.com/2013/06/helical-periodic-table.html</text>
+<text x="670" y="457" font-size="12" font-family="sans-serif" fill="black" text-anchor="end">Element data from: https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee</text>
+<g transform="translate(-650,-400)">
+<rect x="60" y="367.5" width="480" height="120" stroke-width="2" stroke="black" fill="#dddddd" />
+<path d="M300,67.5 L300,7.5 L480,60 L480,120 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<path d="M300,67.5 L480,60 L480,120 Z" stroke-width="2" stroke="black" fill="#ad6c9f" />
+<g transform="translate(60,67.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">H</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">1</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">1.007</text>
+</g>
+<g transform="translate(480,120.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ad6c9f" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">He</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">2</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">4.002</text>
+</g>
+<g transform="translate(60,127.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Li</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">3</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">6.941</text>
+</g>
+<g transform="translate(120,135.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ee8866" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Be</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">4</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">9.012</text>
+</g>
+<g transform="translate(180,142.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#77aadd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">B</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">5</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">10.811</text>
+</g>
+<g transform="translate(240,150.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">C</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">6</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">12.011</text>
+</g>
+<g transform="translate(300,157.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">N</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">7</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">14.007</text>
+</g>
+<g transform="translate(360,165.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">O</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">8</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">15.999</text>
+</g>
+<g transform="translate(420,172.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">F</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">9</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">18.998</text>
+</g>
+<g transform="translate(480,180.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ad6c9f" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ne</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">10</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">20.18</text>
+</g>
+<g transform="translate(60,187.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Na</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">11</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">22.99</text>
+</g>
+<g transform="translate(120,195.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ee8866" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Mg</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">12</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">24.305</text>
+</g>
+<g transform="translate(180,202.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Al</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">13</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">26.982</text>
+</g>
+<g transform="translate(240,210.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#77aadd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Si</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">14</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">28.086</text>
+</g>
+<g transform="translate(300,217.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">P</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">15</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">30.974</text>
+</g>
+<g transform="translate(360,225.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">S</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">16</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">32.065</text>
+</g>
+<g transform="translate(420,232.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Cl</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">17</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">35.453</text>
+</g>
+<g transform="translate(480,240.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ad6c9f" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ar</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">18</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">39.948</text>
+</g>
+<g transform="translate(60,247.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">K</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">19</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">39.098</text>
+</g>
+<g transform="translate(120,255.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ee8866" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ca</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">20</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">40.078</text>
+</g>
+<g transform="translate(180,262.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ga</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">31</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">69.723</text>
+</g>
+<g transform="translate(240,270.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#77aadd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ge</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">32</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">72.64</text>
+</g>
+<g transform="translate(300,277.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#77aadd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">As</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">33</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">74.922</text>
+</g>
+<g transform="translate(360,285.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Se</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">34</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">78.96</text>
+</g>
+<g transform="translate(420,292.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Br</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">35</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">79.904</text>
+</g>
+<g transform="translate(480,300.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ad6c9f" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Kr</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">36</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">83.798</text>
+</g>
+<g transform="translate(60,307.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Rb</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">37</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">85.468</text>
+</g>
+<g transform="translate(120,315.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ee8866" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Sr</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">38</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">87.62</text>
+</g>
+<g transform="translate(180,322.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">In</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">49</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">114.818</text>
+</g>
+<g transform="translate(240,330.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Sn</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">50</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">118.71</text>
+</g>
+<g transform="translate(300,337.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#77aadd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Sb</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">51</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">121.76</text>
+</g>
+<g transform="translate(360,345.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#77aadd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Te</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">52</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">127.6</text>
+</g>
+<g transform="translate(420,352.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#99ddff" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">I</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">53</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">126.904</text>
+</g>
+<g transform="translate(480,360.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ad6c9f" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Xe</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">54</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">131.293</text>
+</g>
+<g transform="translate(60,367.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Cs</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">55</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">132.905</text>
+</g>
+<g transform="translate(120,375.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ee8866" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ba</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">56</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">137.327</text>
+</g>
+<g transform="translate(180,382.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Tl</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">81</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">204.383</text>
+</g>
+<g transform="translate(240,390.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Pb</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">82</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">207.2</text>
+</g>
+<g transform="translate(300,397.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Bi</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">83</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">208.98</text>
+</g>
+<g transform="translate(360,405.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Po</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">84</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[210]</text>
+</g>
+<g transform="translate(420,412.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#77aadd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">At</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">85</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[210]</text>
+</g>
+<g transform="translate(480,420.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ad6c9f" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Rn</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">86</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[222]</text>
+</g>
+<g transform="translate(60,427.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ffaabb" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Fr</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">87</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[223]</text>
+</g>
+<g transform="translate(120,435.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#ee8866" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ra</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">88</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[226]</text>
+</g>
+<g transform="translate(180,442.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#dddddd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Nh</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">113</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[284]</text>
+</g>
+<g transform="translate(240,450.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#dddddd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Fl</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">114</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[289]</text>
+</g>
+<g transform="translate(300,457.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#dddddd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Mc</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">115</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[288]</text>
+</g>
+<g transform="translate(360,465.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#dddddd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Lv</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">116</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[292]</text>
+</g>
+<g transform="translate(420,472.5)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#dddddd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ts</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">117</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[295]</text>
+</g>
+<g transform="translate(480,480.0)">
+<path d="M0,0 L0,-60 L60,-52.5 L60,7.5 Z" stroke-width="2" stroke="black" fill="#dddddd" />
+<text x="30.0" y="-17.142857142857142" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Og</text>
+<text x="30.0" y="-40.14285714285714" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">118</text>
+<text x="2" y="-4" font-size="8" transform="rotate(7.125016348901798)" font-family="sans-serif" fill="black">[294]</text>
+</g>
+</g>
+<g transform="translate(-150,-400)">
+<rect x="180" y="367.5" width="600" height="120" stroke-width="2" stroke="black" fill="#dddddd" />
+<g transform="translate(180,262.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Sc</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">21</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">44.956</text>
+</g>
+<g transform="translate(240,262.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ti</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">22</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">47.867</text>
+</g>
+<g transform="translate(300,262.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">V</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">23</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">50.942</text>
+</g>
+<g transform="translate(360,262.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Cr</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">24</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">51.996</text>
+</g>
+<g transform="translate(420,262.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Mn</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">25</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">54.938</text>
+</g>
+<g transform="translate(480,262.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Fe</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">26</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">55.845</text>
+</g>
+<g transform="translate(540,262.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Co</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">27</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">58.933</text>
+</g>
+<g transform="translate(600,262.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ni</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">28</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">58.693</text>
+</g>
+<g transform="translate(660,262.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Cu</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">29</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">63.546</text>
+</g>
+<g transform="translate(720,262.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Zn</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">30</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">65.38</text>
+</g>
+<g transform="translate(180,322.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Y</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">39</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">88.906</text>
+</g>
+<g transform="translate(240,322.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Zr</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">40</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">91.224</text>
+</g>
+<g transform="translate(300,322.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Nb</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">41</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">92.906</text>
+</g>
+<g transform="translate(360,322.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Mo</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">42</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">95.96</text>
+</g>
+<g transform="translate(420,322.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Tc</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">43</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[98]</text>
+</g>
+<g transform="translate(480,322.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ru</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">44</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">101.07</text>
+</g>
+<g transform="translate(540,322.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Rh</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">45</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">102.906</text>
+</g>
+<g transform="translate(600,322.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Pd</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">46</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">106.42</text>
+</g>
+<g transform="translate(660,322.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ag</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">47</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">107.868</text>
+</g>
+<g transform="translate(720,322.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Cd</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">48</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">112.411</text>
+</g>
+<g transform="translate(180,382.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">La</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">57</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">138.905</text>
+</g>
+<g transform="translate(240,382.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Hf</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">72</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">178.49</text>
+</g>
+<g transform="translate(300,382.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ta</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">73</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">180.948</text>
+</g>
+<g transform="translate(360,382.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">W</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">74</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">183.84</text>
+</g>
+<g transform="translate(420,382.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Re</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">75</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">186.207</text>
+</g>
+<g transform="translate(480,382.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Os</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">76</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">190.23</text>
+</g>
+<g transform="translate(540,382.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ir</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">77</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">192.217</text>
+</g>
+<g transform="translate(600,382.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Pt</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">78</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">195.084</text>
+</g>
+<g transform="translate(660,382.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Au</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">79</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">196.967</text>
+</g>
+<g transform="translate(720,382.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#44bb99" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Hg</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">80</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">200.59</text>
+</g>
+<g transform="translate(180,442.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ac</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">89</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[227]</text>
+</g>
+<g transform="translate(240,442.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Rf</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">104</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[261]</text>
+</g>
+<g transform="translate(300,442.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Db</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">105</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[262]</text>
+</g>
+<g transform="translate(360,442.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Sg</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">106</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[266]</text>
+</g>
+<g transform="translate(420,442.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Bh</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">107</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[264]</text>
+</g>
+<g transform="translate(480,442.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#eedd88" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Hs</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">108</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[267]</text>
+</g>
+<g transform="translate(540,442.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#dddddd" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Mt</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">109</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[268]</text>
+</g>
+<g transform="translate(600,442.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#dddddd" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ds </text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">110</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[271]</text>
+</g>
+<g transform="translate(660,442.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#dddddd" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Rg </text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">111</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[272]</text>
+</g>
+<g transform="translate(720,442.5)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#dddddd" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Cn </text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">112</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[285]</text>
+</g>
+</g>
+<g transform="translate(-600,-100)">
+<rect x="60" y="345.0" width="840" height="120" stroke-width="2" stroke="black" fill="#dddddd" />
+<g transform="translate(60,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ce</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">58</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">140.116</text>
+</g>
+<g transform="translate(120,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Pr</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">59</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">140.908</text>
+</g>
+<g transform="translate(180,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Nd</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">60</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">144.242</text>
+</g>
+<g transform="translate(240,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Pm</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">61</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[145]</text>
+</g>
+<g transform="translate(300,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Sm</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">62</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">150.36</text>
+</g>
+<g transform="translate(360,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Eu</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">63</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">151.964</text>
+</g>
+<g transform="translate(420,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Gd</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">64</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">157.25</text>
+</g>
+<g transform="translate(480,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Tb</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">65</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">158.925</text>
+</g>
+<g transform="translate(540,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Dy</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">66</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">162.5</text>
+</g>
+<g transform="translate(600,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Ho</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">67</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">164.93</text>
+</g>
+<g transform="translate(660,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Er</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">68</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">167.259</text>
+</g>
+<g transform="translate(720,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Tm</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">69</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">168.934</text>
+</g>
+<g transform="translate(780,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Yb</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">70</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">173.054</text>
+</g>
+<g transform="translate(840,360)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#bbcc33" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Lu</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">71</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">174.967</text>
+</g>
+<g transform="translate(60,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Th</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">90</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">232.038</text>
+</g>
+<g transform="translate(120,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Pa</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">91</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">231.036</text>
+</g>
+<g transform="translate(180,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">U</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">92</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">238.029</text>
+</g>
+<g transform="translate(240,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Np</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">93</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[237]</text>
+</g>
+<g transform="translate(300,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Pu</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">94</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[244]</text>
+</g>
+<g transform="translate(360,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Am</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">95</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[243]</text>
+</g>
+<g transform="translate(420,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Cm</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">96</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[247]</text>
+</g>
+<g transform="translate(480,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Bk</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">97</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[247]</text>
+</g>
+<g transform="translate(540,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Cf</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">98</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[251]</text>
+</g>
+<g transform="translate(600,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Es</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">99</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[252]</text>
+</g>
+<g transform="translate(660,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Fm</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">100</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[257]</text>
+</g>
+<g transform="translate(720,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Md</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">101</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[258]</text>
+</g>
+<g transform="translate(780,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">No</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">102</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[259]</text>
+</g>
+<g transform="translate(840,420)">
+<path d="M0,0 L0,-60 L60,-60 L60,0 Z" stroke-width="2" stroke="black" fill="#aaaa00" />
+<text x="30.0" y="-22.22222222222222" font-size="24" font-family="sans-serif" text-anchor="middle" dominant-baseline="middle" fill="black">Lr</text>
+<text x="30.0" y="-45.22222222222222" font-size="12" text-anchor="middle" font-family="sans-serif" fill="black">103</text>
+<text x="4" y="-4" font-size="8" font-family="sans-serif" fill="black">[262]</text>
+</g>
+</g>
+</svg>
