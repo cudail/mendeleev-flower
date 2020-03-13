@@ -6,6 +6,7 @@
 <text x="30" y="-350" font-size="30" font-family="sans-serif" fill="black">Print-out Spiral Mendeleev Flower</text>
 <text x="30" y="-320" font-size="20" font-family="sans-serif" fill="black">Caoimhe Ní Chaoimh</text>
 <text x="30" y="-300" font-size="12" font-family="sans-serif" fill="black">https://github.com/oakreef/mendeleev-flower</text>
+<text x="30" y="-285" font-size="12" font-family="sans-serif" fill="black">Released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license</text>
 <text x="670" y="440" font-size="12" font-family="sans-serif" fill="black" text-anchor="end">Inspiration: https://chilliant.blogspot.com/2013/06/helical-periodic-table.html</text>
 <text x="670" y="457" font-size="12" font-family="sans-serif" fill="black" text-anchor="end">Element data from: https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee</text>
 <g transform="translate(-650,-400)">
