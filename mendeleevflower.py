@@ -73,6 +73,8 @@ with open ('elements.csv') as elementscsv:
             element = svg.Group(transform=f"translate({x*bw},{y*bh+x*o})")
             spblock.append(element)
             element.append(svg.Lines(0,0, 0,bh, bw,bh-o, bw,-o, close=True,stroke_width=2, stroke='black', fill=colour))
+            element.append(svg.Text(data[symbolIdx],24,bw/2,bh/3.5,font_family='sans-serif',text_anchor='middle', dominant_baseline='middle',fill='black'))
+            element.append(svg.Text(data[atomicNIdx],12,bw/2,bh/3.5+23,text_anchor='middle',font_family='sans-serif',fill='black'))
         elif group > 0: #Transition Metals
             if a>108:
                 colour = unknwn
@@ -84,6 +86,9 @@ with open ('elements.csv') as elementscsv:
             element = svg.Group(transform=f"translate({x*bw},{y*bh})")
             fblock.append(element)
             element.append(svg.Lines(0,0,0,bh,bw,bh,bw,0,close=True,stroke_width=2, stroke='black', fill=colour))
+            element.append(svg.Text(data[symbolIdx],24,bw/2,bh/2.7,font_family='sans-serif',text_anchor='middle', dominant_baseline='middle',fill='black'))
+            element.append(svg.Text(data[atomicNIdx],12,bw/2,bh/2.7+23,text_anchor='middle',font_family='sans-serif',fill='black'))
+
         else: #Lanthanide & Actinides
             if period==6: #lanthanide
                 colour = lanthd
@@ -94,8 +99,8 @@ with open ('elements.csv') as elementscsv:
             element = svg.Group(transform=f"translate({x*bw},{y*bh})")
             dblock.append(element)
             element.append(svg.Lines(0,0,0,bh,bw,bh,bw,0,close=True,stroke_width=2, stroke='black', fill=colour))
-        element.append(svg.Text(data[symbolIdx],24,bw/2,bh/2.7,font_family='sans-serif',text_anchor='middle', dominant_baseline='middle',fill='black'))
-        element.append(svg.Text(data[atomicNIdx],12,bw/2,bh*0.75,text_anchor='middle',font_family='sans-serif',fill='black'))
+            element.append(svg.Text(data[symbolIdx],24,bw/2,bh/2.7,font_family='sans-serif',text_anchor='middle', dominant_baseline='middle',fill='black'))
+            element.append(svg.Text(data[atomicNIdx],12,bw/2,bh/2.7+23,text_anchor='middle',font_family='sans-serif',fill='black'))
         mass = float(data[massIdx])
         mass_str = mass.is_integer() and f'[{int(mass)}]' or str(mass)
         element.append(svg.Text(mass_str,8,4,4,font_family='sans-serif',fill='black'))
