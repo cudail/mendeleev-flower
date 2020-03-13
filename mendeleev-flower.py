@@ -53,9 +53,13 @@ o=bw*math.tan(angle)
 
 # you might wonder about the maths here
 # it was entirely by trial and error
-spblock.append(svg.Rectangle(bw,-bh*8-o,bw*n,bh*2,stroke_width=2, stroke='black', fill=unknwn))
-fblock.append(svg.Rectangle(bw*3,-bh*8-o,bw*10,bh*2,stroke_width=2, stroke='black', fill=unknwn))
-dblock.append(svg.Rectangle(bw,-bh*8+2*o,bw*14,bh*2,stroke_width=2, stroke='black', fill=unknwn))
+margin=10
+spblock.append(svg.Rectangle(bw-margin,-bh*8-o,bw*n+margin*2,bh, fill=unknwn))
+spblock.append(svg.Line(bw-margin,-bh*8-o, bw*(n+1)+margin,-bh*8-o,stroke_width=2, stroke='black',))
+fblock.append(svg.Rectangle(bw*3-margin,-bh*8-o,bw*10+margin*2,bh, fill=unknwn))
+fblock.append(svg.Line(bw*3-margin,-bh*8-o, bw*13+margin,-bh*8-o,stroke_width=2, stroke='black',))
+dblock.append(svg.Rectangle(bw-margin,-bh*8+2*o,bw*14+margin*2,bh, fill=unknwn))
+dblock.append(svg.Line(bw-margin,-bh*8+2*o, bw*15+margin,-bh*8+2*o,stroke_width=2, stroke='black',))
 
 with open ('elements.csv') as elementscsv:
     rows = csv.reader(elementscsv)
