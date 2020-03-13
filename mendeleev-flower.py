@@ -26,6 +26,8 @@ unknwn='#dddddd'
 d.append(svg.Text("Print-out Spiral Mendeleev Flower",30,30,350,font_family='sans-serif',fill='black'))
 d.append(svg.Text("Caoimhe Ní Chaoimh",20,30,320,font_family='sans-serif',fill='black'))
 d.append(svg.Text("https://github.com/oakreef/mendeleev-flower",12,30,300,font_family='sans-serif',fill='black'))
+d.append(svg.Text("Released under Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license",12,30,285,font_family='sans-serif',fill='black'))
+
 d.append(svg.Text("Inspiration: https://chilliant.blogspot.com/2013/06/helical-periodic-table.html",12,670,-440,font_family='sans-serif',fill='black',text_anchor='end'))
 d.append(svg.Text("Element data from: https://gist.github.com/GoodmanSciences/c2dd862cd38f21b0ad36b8f96b4bf1ee",12,670,-457,font_family='sans-serif',fill='black',text_anchor='end'))
 
