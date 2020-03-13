@@ -34,15 +34,21 @@ n=8 #number of elements in a p block row
 
 #slant offset to make the spiral work
 angle=math.asin(bh/math.sqrt(bh*bh+n*n*bw*bw))
+
+#offset for sp-block slant
 o=bw*math.tan(angle)
 
+
 # you might wonder about the maths here
-# I don't understand it either
 # it was entirely by trial and error
 spblock.append(svg.Rectangle(bw,-bh*8-o,bw*8,bh*2,stroke_width=2, stroke='black', fill=unknwn))
 fblock.append(svg.Rectangle(bw*3,-bh*8-o,bw*10,bh*2,stroke_width=2, stroke='black', fill=unknwn))
 dblock.append(svg.Rectangle(bw,-bh*8+2*o,bw*14,bh*2,stroke_width=2, stroke='black', fill=unknwn))
 
+#offset for the wrap-around for H->He
+o2=bw*math.tan(math.asin(bh/math.sqrt(bh*bh+4*4*bw*bw)))
+spblock.append(svg.Lines(bw*5,-bh-o, bw*5,-o, bw*8,-bh, bw*8,-2*bh, close=True,stroke_width=2, stroke='black', fill=nonmet))
+spblock.append(svg.Lines(bw*5,-bh-o,  bw*8,-bh, bw*8,-2*bh, close=True,stroke_width=2, stroke='black', fill=nobleg))
 
 with open ('elements.csv') as elementscsv:
     rows = csv.reader(elementscsv)
