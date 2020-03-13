@@ -1,4 +1,5 @@
 references/*
 .~lock*#
 out.svg
+venv/*
 
