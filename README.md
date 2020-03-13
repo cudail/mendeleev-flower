@@ -2,6 +2,8 @@
 
 Design intended for spiralling, 3D period table, inspired by [Ian Taylor's mendeleev flower]. Print it out and glue it together.
 
+![mendeleev-flower](mendeleev-flower.png)
+
 Element data from [GoodmanSciences].
 
 Colours, with modification, from [Paul Tol's colour palettes].
