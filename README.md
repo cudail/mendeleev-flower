@@ -2,7 +2,9 @@
 
 Design intended for spiralling, 3D period table, inspired by [Ian Taylor's mendeleev flower]. Print it out and glue it together.
 
-![mendeleev-flower](mendeleev-flower.png)
+![mendeleev-flower](mendeleev-flower.png "Printable flower PNG")
+
+![mendeleev-flower-photo](mendeleev-flower-photo.jpg "Photo of assembled flower")
 
 Element data from [GoodmanSciences].
 
